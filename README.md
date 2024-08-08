@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohaAreej&label=Profile%20views&color=0e75b6&style=flat" alt="RohaAreej" /> </p>
 
-- 🔭 I’m currently working as SE @ Mslm.
+- 🔭 I’m currently working as SE.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
